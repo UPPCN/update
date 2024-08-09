@@ -1,5 +1,5 @@
 # اطلاعیه
-نسخه جدید 3NET VPN در برنامه Xiaomi GetApps قرار گرفته است. CNET VPN  بزودی از کار خواهد افتاد
+نسخه 3NET VPN در برنامه Xiaomi GetApps قرار گرفته است.
 
 # لینک دانلود برنامه GetApps : 
 https://dl.appsget.ir/apps/Xiaomi-GetApps-31.8.4.0-appsget.ir.apk
